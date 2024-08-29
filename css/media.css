@@ -1,0 +1,606 @@
+/* extra small  */
+@media (max-width: 575.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+header{
+    padding: 20px 0 20px;
+}
+.logo{
+    font-size: 30px;
+}
+.menu ul li a{
+    margin: 0;
+}
+/* header end  */
+/* banner start  */
+.banner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.banner_2{
+    width: 370px;
+    height: 360px;
+    margin: 31px;
+    padding: 17px;
+    background-color: rgba(223, 233, 244, 0.4);
+}
+.banner_3 h1{
+    margin: 10px 0;
+    font-size: 30px;
+    line-height: 40px;
+}
+.banner_3 p{
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #111111;
+}
+.common_btn{
+    padding: 10px 30px;
+    font-weight: 500;
+}
+/* banner end  */
+/* service start  */
+.service{
+    margin-top: 45px;
+    padding-bottom: 45px;
+    background-color: #F2F5FF;
+}
+.systems{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    width: 50px;
+}
+.text{
+    margin-left: 20px;
+}
+.text span{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29.26px;
+    color: var(--black);
+}
+.text p{
+    margin-top: 6px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    color: var(--black);
+}
+/* service end  */
+/* common title start  */
+.common_title{
+    margin: 50px 0 0;
+}
+.title h2{
+    font-size: 27px;
+}
+.title p{
+    margin: 0 20px;
+}
+/* common title end  */
+/* feature start  */
+.sigle_item{
+    margin-top: 40px;
+}
+.common{
+    margin: 0 0;
+}
+
+.single_img1:hover, .single_img2:hover, .single_img3:hover{
+    margin-top: -30px;
+}
+/* feature end  */
+/* beauty start  */
+.beauty{
+    margin-top: 60px;
+    padding: 50px 0;
+    background-color: #F2F5FF;
+}
+.text2{
+    margin: 0 0;
+    padding-right: 0;
+}
+.text2 h3{
+    margin: 11px 0;
+    font-size: 22px;
+}
+.text2 p{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.beauty_img{
+    margin: 0 0;
+    padding: 0;
+}
+/* beauty end  */
+/* feature2 start  */
+.feature2{
+    padding-bottom:  50px;
+}
+.f2_single_item{
+    margin-top: 30px;
+}
+
+.f2_text{
+    margin-top: 15px;
+}
+.f2_text h4{
+    font-size: 20px;
+}
+/* feature2 end  */
+/* feature3 start  */
+.feature3{
+    padding-bottom: 80px;
+}
+.f3_single_item{
+    margin-top: 50px;
+}
+.number{
+    width: 80px;
+    height: 80px;
+}
+.number .number2{
+    width: 60px;
+    height: 60px;
+}
+.f3_text{
+    margin-top: 45px;
+}
+.f3_text h5{
+    font-size: 20px;
+}
+.f3_text p{
+    margin: 0 0;
+    font-size: 17px;
+}
+/* feature3 end  */
+/* subscribe start  */
+.subscribe{
+    padding-top: 60px;
+    background: #F2F5FF;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    margin: 50px 0 60px;
+    border: 1px solid var(--blue);
+}
+.input input{
+    padding: 7px 0 7px 10px;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+.input button{
+    padding: 7px 10px;
+    border: none;
+    outline: none;
+    background-color: var(--blue);
+    color: #ffffff;
+    cursor: pointer;
+}
+/* subscribe end  */
+/* footer start  */
+.footer{
+    padding: 40px 0 50px;
+}
+.h6{
+    margin-top: 20px;
+    font-size: 20px;
+}
+/* footer end  */
+}
+/* small  */
+@media (min-width: 576px) and (max-width: 767.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+header{
+    padding: 20px 0 20px;
+}
+.logo{
+    font-size: 30px;
+}
+.menu ul li a{
+    margin: 0;
+}
+/* header end  */
+/* banner start  */
+.banner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.banner_2{
+    width: 370px;
+    height: 360px;
+    margin: 100px;
+    padding: 25px;
+    background-color: rgba(223, 233, 244, 0.4);
+}
+.banner_3 h1{
+    margin: 10px 0;
+    font-size: 30px;
+    line-height: 40px;
+}
+.banner_3 p{
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #111111;
+}
+.common_btn{
+    padding: 10px 30px;
+    font-weight: 500;
+}
+/* banner end  */
+/* service start  */
+.service{
+    margin-top: 45px;
+    padding-bottom: 45px;
+    background-color: #F2F5FF;
+}
+.systems{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    width: 50px;
+}
+.text{
+    margin-left: 20px;
+}
+.text span{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29.26px;
+    color: var(--black);
+}
+.text p{
+    margin-top: 6px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    color: var(--black);
+}
+/* service end  */
+/* common title start  */
+.common_title{
+    margin: 50px 0 0;
+}
+.title h2{
+    font-size: 27px;
+}
+.title p{
+    margin: 0 60px;
+}
+/* common title end  */
+/* feature start  */
+.sigle_item{
+    margin-top: 50px;
+}
+.common{
+    margin: 0 70px;
+}
+
+.single_img1:hover, .single_img2:hover, .single_img3:hover{
+    margin-top: -30px;
+}
+/* feature end  */
+/* beauty start  */
+.beauty{
+    margin-top: 60px;
+    padding: 60px 0;
+    background-color: #F2F5FF;
+}
+.text2{
+    margin: 0 70px;
+    padding-right: 0;
+}
+.text2 h3{
+    margin: 11px 0;
+    font-size: 22px;
+}
+.text2 p{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.beauty_img{
+    margin: 0 70px;
+    padding: 0;
+}
+/* beauty end  */
+/* feature2 start  */
+.feature2{
+    padding-bottom:  50px;
+}
+.f2_single_item{
+    margin-top: 40px;
+}
+
+.f2_text{
+    margin-top: 20px;
+}
+.f2_text h4{
+    font-size: 20px;
+}
+/* feature2 end  */
+/* feature3 start  */
+.feature3{
+    padding-bottom: 80px;
+}
+.f3_single_item{
+    margin-top: 50px;
+}
+.number{
+    width: 80px;
+    height: 80px;
+}
+.number .number2{
+    width: 60px;
+    height: 60px;
+}
+.f3_text{
+    margin-top: 45px;
+}
+.f3_text h5{
+    font-size: 20px;
+}
+.f3_text p{
+    margin: 0 70px;
+    font-size: 17px;
+}
+/* feature3 end  */
+/* footer start  */
+.footer{
+    padding: 40px 0 50px;
+}
+.h6{
+    font-size: 20px;
+}
+/* footer end  */
+}
+/* medium */
+@media (min-width: 768px) and (max-width: 991.98px){
+    /* header start  */
+header{
+    padding: 20px 0 20px;
+}
+.logo{
+    font-size: 30px;
+}
+.menu ul li a{
+    margin: 0;
+}
+/* header end  */
+/* banner start  */
+.banner{
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    background-image: url(../images/banner_img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner_2{
+    width: 380px;
+    height: 350px;
+    margin: 50px -60px 50px 0;
+    padding: 25px;
+}
+.banner_3 span{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.5px;
+    letter-spacing: 3px;
+    color: var(--black);
+}
+.banner_3 h1{
+    font-size: 40px;
+    line-height: 50px;
+}
+.banner_3 p{
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.common_btn{
+    padding: 10px 30px;
+    font-size: 17px;
+}
+/* banner end  */
+/* service start  */
+.service{
+    padding-bottom: 35px;
+}
+.icon{
+    width: 50px;
+}
+.text{
+    margin-left: 18px;
+}
+.text span{
+    font-size: 20px;
+}
+/* service end  */
+/* feature start  */
+.sigle_item{
+    margin-top: 60px;
+}
+.common{
+    margin: 0 100px;
+}
+.single_img1 img{
+    border-top-left-radius: 75px;
+}
+.single_img3 img {
+    border-bottom-right-radius: 75px;
+}
+.single_img1:hover, .single_img2:hover, .single_img3:hover{
+    margin-top: -30px;
+}
+/* feature end  */
+/* beauty start  */
+.beauty{
+    margin-top: 60px;
+    padding: 60px 0;
+    background-color: #F2F5FF;
+}
+.text2{
+    margin: 0 100px;
+    padding-right: 0;
+}
+.text2 h3{
+    margin: 15px 0;
+    font-size: 25px;
+}
+.text2 p{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.beauty_img{
+    margin: 0 100px;
+    padding: 0;
+}
+/* beauty end  */
+/* feature2 start  */
+.feature2{
+    padding-bottom:  80px;
+}
+.f2_single_item{
+    margin-top: 50px;
+}
+
+.f2_text{
+    margin-top: 20px;
+}
+.f2_text h4{
+    font-size: 20px;
+}
+/* feature2 end  */
+/* feature3 start  */
+.feature3{
+    padding-bottom: 120px;
+}
+.f3_single_item{
+    margin-top: 50px;
+}
+.number{
+    width: 80px;
+    height: 80px;
+}
+.number .number2{
+    width: 60px;
+    height: 60px;
+}
+.f3_text{
+    margin-top: 45px;
+}
+.f3_text h5{
+    font-size: 20px;
+}
+.f3_text p{
+    font-size: 17px;
+}
+/* feature3 end  */
+/* footer start  */
+.footer{
+    padding: 50px 0 70px;
+}
+.h6{
+    font-size: 22px;
+}
+/* footer end  */
+}
+/* large  */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    /* header start  */
+header{
+    padding: 35px 0 30px;
+}
+.menu ul li a{
+    margin: 0 20px;
+}
+/* header end  */
+/* banner start  */
+.banner{
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    background-image: url(../images/banner_img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner_2{
+    width: 500px;
+    height: 380px;
+    margin: 100px -60px 65px 0;
+    padding: 40px;
+}
+.banner_3 span{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.5px;
+    letter-spacing: 3px;
+    color: var(--black);
+}
+.banner_3 h1{
+    margin: 10px 0;
+    font-size: 50px;
+    line-height: 60px;
+}
+.banner_3 p{
+    margin-bottom: 20px;
+}
+.common_btn{
+    padding: 10px 40px;
+    font-size: 18px;
+}
+/* banner end  */
+/* service start  */
+.icon{
+    width: 70px;
+}
+/* service end  */
+/* common title start  */
+.common_title{
+    margin: 50px 0 0;
+}
+.title h2{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39.01px;
+    color: var(--black);
+}
+/* common title end  */
+/* beuty start  */
+.text2 {
+    padding-right: 25px;
+}
+.text2 h3 {
+    font-size: 30px;
+}
+/* beuty end  */
+}
+/* extra large  */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    .text2 {
+        padding-right: 115px;
+    }
+}
+/* extra extra large  */
+@media (min-width: 1400px){}
